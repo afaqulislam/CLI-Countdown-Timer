@@ -1,5 +1,5 @@
 {
-  "name": "cli-countdown-timer",
+  "name": "aui-cli-countdown-timer",
   "version": "1.0.0",
   "description": "This Is A CLI Based Countdown Timer Project. This Project Developed By Afaq UL Islam.Run This Command To Your CMD For Testing 'npx cli-countdown-timer'",
   "main": "main.js",
